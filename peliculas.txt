@@ -3,8 +3,8 @@
 [] La Familia Belier
 [] Dos Tontos todavía más tontos
 [] Donde está el fantasma
-[] Scarie movie
+[X] Scarie movie
 [] Inactividad paranormal
-[] Gravedad
+[X] Gravedad
 [] Terremoto
-[] Anabel
+[X] Anabel
