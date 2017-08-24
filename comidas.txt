@@ -1,10 +1,10 @@
 [X] Arroz con pollo
 [] Carne asada
 [] Ensalada
-[X] Sopa de pastas
+[] Sopa de pastas
 [] Arroz con camarones
-[] Lasagna
+[X] Lasagna
 [] Lentejas
 [] Frijoles
-[] Arepa rellena
+[X] Arepa rellena
 [] Pizza
