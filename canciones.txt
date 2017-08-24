@@ -1,10 +1,10 @@
-[] Lo mejor que hay en mi vida
+[X] Lo mejor que hay en mi vida
 [] Embrujo
 [] Carpintero
 [] Nada es para siempre
 [] Viva la vida
 [] More than words
 [] Unforgiven
-[X] Pensando en tí
-[X] Maldita bruja
-[X] Clocks
+[] Pensando en tí
+[] Maldita bruja
+[] Clocks
