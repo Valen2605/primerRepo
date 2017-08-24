@@ -5,6 +5,6 @@
 [] Viva la vida
 [] More than words
 [] Unforgiven
-[] Pensando en tí
-[] Maldita bruja
-[] Clocks
+[X] Pensando en tí
+[X] Maldita bruja
+[X] Clocks
